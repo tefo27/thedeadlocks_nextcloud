@@ -1,0 +1,15 @@
+.env
+*.pem
+*.key
+*.crt
+*.tar
+*.tar.gz
+*.zip
+*.iso
+*.img
+*.bin
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
